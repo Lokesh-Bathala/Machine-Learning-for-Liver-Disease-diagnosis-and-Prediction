@@ -57,9 +57,14 @@ To run the Web application, use the following command
 
 Our user-friendly web application seamlessly integrates with our powerful AI model, empowering you to take charge of your health. Simply launch the application by running the command python app.py in your terminal. Your web browser will guide you to the application's interface, where you'll effortlessly enter your blood test values. Once you've submitted the information, our AI model springs into action, analyzing your data with the expertise of vast medical knowledge. With a click, you'll receive a personalized prediction of potential liver disease, putting you back in control of your health decisions. No more navigating complex medical jargon or waiting for appointments – our interactive platform places the power of prediction directly in your hands. Embark on a journey of personalized health insights with our groundbreaking web application, where technology and patient empowerment converge.
 
+
+
 # Demo 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Liver-Disease-Prediction-Project/main/Images/gif.gif">
 <img src="https://raw.githubusercontent.com/SagarDhandare/Liver-Disease-Prediction-Project/main/Images/gif1.gif">
+
+
+# Thank you...!
 
 
 
